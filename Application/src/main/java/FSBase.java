@@ -5,6 +5,7 @@ import java.io.IOException;
 
 public class FSBase extends Base {
 // line added
+// line added to the new branch
     public static String dataFilePath = "/Users/malam2/Desktop/FinalScore2/Application/src/test/TestData/test_Data.xlsx";
     public String userName = "alam.write@gmail.com";
     public String password = "Locker12";
